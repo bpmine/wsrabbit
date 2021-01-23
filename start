@@ -1,0 +1,5 @@
+#!/bin/sh
+
+export set FLASK_APP=wsrabbit.py
+
+python3 -m flask run
